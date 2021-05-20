@@ -7,5 +7,5 @@ setInterval(()=>{
   if (count > 1) {
   count--;
   // You put your URL where it says location.replace in the quotes.
-  } else if (count < 1) location.replace('https://https://notaddons.github.io/')
+  } else if (count < 1) location.replace('https://notaddons.github.io/')
   },1000)
